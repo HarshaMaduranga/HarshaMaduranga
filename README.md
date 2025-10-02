@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sahan%20Maduranga&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign&descAlignY=51&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsha%20Maduranga&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign&descAlignY=51&descAlign=50)
   
 </div>
 
