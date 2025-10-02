@@ -22,7 +22,7 @@
 - 🔭 I'm currently working on **web development projects**
 - 🌱 I'm currently learning **React, Node.js, and Modern Design Systems**
 - 💬 Ask me about **Web Development, UI/UX Design, and Creative Solutions**
-- 📫 How to reach me: **madurangasahan576@gmail.com**
+- 📫 How to reach me: **harshamaduranga435@gmail.com**
 - ⚡ Fun fact: **I love combining code with creativity!**
 
 <br>
