@@ -81,13 +81,13 @@
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahan1103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshaMaduranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
 </div>
 
 <div align="center">
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan1103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaMaduranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=sahan1103&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshaMaduranga&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
   
 </div>
 
@@ -107,7 +107,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahan1103&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaMaduranga&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
   
 </div>
 
