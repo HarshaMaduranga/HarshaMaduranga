@@ -75,12 +75,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HarshaMaduranga&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Harsha Maduranga github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaMaduranga&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+  
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaMaduranga&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaMaduranga&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak Stats" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaMaduranga&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=HarshaMaduranga&theme=dark&hide_border=true&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff)
+
 </div>
 
 ---
@@ -88,7 +89,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshaMaduranga&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=HarshaMaduranga&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=7)
+
 </div>
 
 ---
