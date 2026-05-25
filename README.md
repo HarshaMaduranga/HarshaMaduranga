@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsha%20Maduranga&fontSize=50&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Welcome+to+my+GitHub+Profile!;Always+learning+and+growing;Building+creative+%26+functional+solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
